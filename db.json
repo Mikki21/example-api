@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "duration": 142,
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.primevideo.com%2F-%2Fru%2Fdetail%2FThe-Shawshank-Redemption%2F0H3BD1NXV10WDK34UPWWVK4NNS&psig=AOvVaw2hRzyn0Mn34a_A-RFFt8Xq&ust=1729189224930000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiD1v3Bk4kDFQAAAAAdAAAAABAI"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "duration": 175,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://planetakino.ua/res/get-poster/00000000000000000000000000002549/vend.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "duration": 152,
+    "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "poster": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D1%91%D0%BC%D0%BD%D1%8B%D0%B9_%D1%80%D1%8B%D1%86%D0%B0%D1%80%D1%8C_(2008)_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "duration": 154,
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife intertwine in four tales of violence and redemption.",
+    "poster": "https://example.com/images/pulp_fiction.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Lord of the Rings: The Return of the King",
+    "duration": 201,
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "poster": "https://example.com/images/lotr_return_king.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Fight Club",
+    "duration": 139,
+    "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "poster": "https://example.com/images/fight_club.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Forrest Gump",
+    "duration": 142,
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+    "poster": "https://example.com/images/forrest_gump.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Inception",
+    "duration": 148,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "poster": "https://example.com/images/inception.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Matrix",
+    "duration": 136,
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://example.com/images/matrix.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Goodfellas",
+    "duration": 145,
+    "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his partners in crime.",
+    "poster": "https://example.com/images/goodfellas.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Se7en",
+    "duration": 127,
+    "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "poster": "https://example.com/images/se7en.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Interstellar",
+    "duration": 169,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "poster": "https://example.com/images/interstellar.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Silence of the Lambs",
+    "duration": 118,
+    "description": "A young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching
